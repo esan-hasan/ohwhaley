@@ -4,6 +4,8 @@
 # ohwhaley
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/esan-hasan/ohwhaley/workflows/R-CMD-check/badge.svg)](https://github.com/esan-hasan/ohwhaley/actions)
 <!-- badges: end -->
 
 The goal of ohwhaley is to …
